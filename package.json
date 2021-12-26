@@ -1,7 +1,7 @@
 {
-  "name": "@townland-project/component",
+  "name": "@townland-project/pocket",
   "version": "0.0.1",
-  "description": "Townland component boilerplate",
+  "description": "Character's pocket in town",
   "main": "public/bundle.js",
   "scripts": {
     "serve": "webpack serve",
@@ -11,8 +11,7 @@
   },
   "keywords": [
     "townland",
-    "component",
-    "boilerplate"
+    "component"
   ],
   "author": {
     "name": "Townland",
@@ -21,9 +20,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/townland-project/component.git"
+    "url": "https://github.com/townland-project/pocket.git"
   },
-  "homepage": "https://project.townland.xyz/repo/component",
+  "homepage": "https://project.townland.xyz/repo/pocket",
   "license": "MIT",
   "devDependencies": {
     "@types/node": "^17.0.4",
